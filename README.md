@@ -113,3 +113,6 @@ password: janedoe
 
 ### Author
 **Olajide Bolaji 'Nuel** - Software Developer at Andela
+
+## Contributor
+**Omoike Sarah Igho- Software Developer @ APMIS.
